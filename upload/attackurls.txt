@@ -1,0 +1,2 @@
+https://www.pokemon.com/api/1/fi/mainnav
+https://www.pokemon.com/api/2/fi/mainnav/.env/config
